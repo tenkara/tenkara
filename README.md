@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tenkara
-- 👀 I’m interested in product development
+- 👋 Hi, I’m Raj
+- 👀 I’m passionate about technology and innovative product development
 - 🌱 I’m currently learning Neuroscience
-- 💞️ I’m looking to collaborate on Cloud Native, AI/ML, Blockchain and small to large Full Stack development
+- 💞️ I’m looking to collaborate on Blockchain, Web3, Cloud Native, AI/ML, small or large Full Stack development
 - 📫 How to reach me - Email to begin with - rajknakka@gmail.com
 
 <!---
