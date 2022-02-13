@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raj
-- 👀 I’m passionate about technology and innovative product development
-- 🌱 I’m currently learning Neuroscience
-- 💞️ I’m looking to collaborate on Blockchain, Web3, Cloud Native, AI/ML, small or large Full Stack development
+- 👀 I’m passionate about innovation, technology, science, math and history
+- 🌱 I’m currently learning Neuroscience. Nearly three decades of experience in building large mission critical global systems
+- 💞️ I’m all in for collaboration on Blockchain, Web3, Cloud Native, AI/ML, small or large full Stack development
 - 📫 How to reach me - Email to begin with - rajknakka@gmail.com
 
 <!---
