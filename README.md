@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raj
+- 👋 Hello, I am Raj
 - 👀 I’m passionate about innovation, technology, science, math and history
 - 🌱 I’m currently learning Neuroscience. Nearly three decades of experience in building large mission critical global systems
 - 💞️ I’m all in for collaboration on Blockchain, Web3, Cloud Native, AI/ML, small or large full Stack development
