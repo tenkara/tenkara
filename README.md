@@ -1,6 +1,10 @@
-- 👋 Hello, I am Raj and am passionate about using technology to solve the problems of today and build a better future.
-- 👀 I am currently working on products related to Blockchain, Web3, Quantum computing, Cloud Native, DSML, and Artifical Intelligence. 
-- 📫 Feel free to reach me at rajknakka@gmail.com if you have anything specific to discuss.
+## Hi there👋 I'm Raj
+
+### About me 
+- 🔭 I'm a Computer scientist using technology to solve the problems of today and build a better future.
+- 🚴 I have a wide ranging interests from technology to arts and sports. 
+- ❤️ Truly passionate about Neuroscience, Machine Learning and AI, computational biology, Blockchain and Web3, Quantum computing, and Cloud Native. 
+- 📫 How to reach me: rajknakka@gmail.com
 
 <!---
 tenkara/tenkara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
